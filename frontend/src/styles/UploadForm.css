@@ -1,0 +1,25 @@
+.upload-section {
+  padding: 24px;
+}
+
+.upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 420px;
+}
+
+.upload-form input,
+.upload-form textarea,
+.upload-form select,
+.upload-form button {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.upload-form button[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+

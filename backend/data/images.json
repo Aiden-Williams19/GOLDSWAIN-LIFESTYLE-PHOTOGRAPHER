@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "category": "Weddings",
+    "title": "jefte",
+    "description": "",
+    "image_url": "/uploads/1758880796859-Wedding-2.jpg",
+    "created_at": "2025-09-26 09:59:56"
+  },
+  {
+    "id": 2,
+    "category": "Weddings",
+    "title": "John",
+    "description": "",
+    "image_url": "/uploads/1758880831587-Wedding-1.jpg",
+    "created_at": "2025-09-26 10:00:31"
+  },
+  {
+    "id": 3,
+    "category": "Weddings",
+    "title": "Peter",
+    "description": "",
+    "image_url": "/uploads/1758880845740-Wedding-3.jpg",
+    "created_at": "2025-09-26 10:00:45"
+  },
+  {
+    "id": 4,
+    "category": "Weddings",
+    "title": "Paul",
+    "description": "",
+    "image_url": "/uploads/1758880857321-Wedding-4.jpg",
+    "created_at": "2025-09-26 10:00:57"
+  },
+  {
+    "id": 5,
+    "category": "Portraits",
+    "title": "P2",
+    "description": "",
+    "image_url": "/uploads/1758880881187-Portrait-2.jpg",
+    "created_at": "2025-09-26 10:01:21"
+  },
+  {
+    "id": 6,
+    "category": "Portraits",
+    "title": "P3",
+    "description": "",
+    "image_url": "/uploads/1758880894874-Portrait-3.jpg",
+    "created_at": "2025-09-26 10:01:34"
+  },
+  {
+    "id": 7,
+    "category": "Portraits",
+    "title": "P4",
+    "description": "",
+    "image_url": "/uploads/1758880914770-Portrait-4.jpg",
+    "created_at": "2025-09-26 10:01:54"
+  },
+  {
+    "id": 8,
+    "category": "Portraits",
+    "title": "P2",
+    "description": "",
+    "image_url": "/uploads/1758880950787-Portrait-2.jpg",
+    "created_at": "2025-09-26 10:02:30"
+  },
+  {
+    "id": 9,
+    "category": "Lifestyle",
+    "title": "L1",
+    "description": "",
+    "image_url": "/uploads/1758880983785-Lifestyle-1.jpg",
+    "created_at": "2025-09-26 10:03:03"
+  },
+  {
+    "id": 10,
+    "category": "Lifestyle",
+    "title": "L2",
+    "description": "",
+    "image_url": "/uploads/1758880992973-Lifestyle-2.jpg",
+    "created_at": "2025-09-26 10:03:12"
+  },
+  {
+    "id": 11,
+    "category": "Lifestyle",
+    "title": "L3",
+    "description": "",
+    "image_url": "/uploads/1758881002556-Lifestyle-3.jpg",
+    "created_at": "2025-09-26 10:03:22"
+  },
+  {
+    "id": 12,
+    "category": "Lifestyle",
+    "title": "L4",
+    "description": "",
+    "image_url": "/uploads/1758881012738-Lifestyle-4.jpg",
+    "created_at": "2025-09-26 10:03:32"
+  },
+  {
+    "id": 13,
+    "category": "Lifestyle",
+    "title": "L5",
+    "description": "",
+    "image_url": "/uploads/1758881021535-Lifestyle-5.jpg",
+    "created_at": "2025-09-26 10:03:41"
+  },
+  {
+    "id": 14,
+    "category": "Commercials",
+    "title": "Com1",
+    "description": "",
+    "image_url": "/uploads/1758881035952-Commercial-1.jpg",
+    "created_at": "2025-09-26 10:03:55"
+  },
+  {
+    "id": 15,
+    "category": "Commercials",
+    "title": "Com2",
+    "description": "",
+    "image_url": "/uploads/1758881047355-Commercial-2.jpg",
+    "created_at": "2025-09-26 10:04:07"
+  },
+  {
+    "id": 16,
+    "category": "Commercials",
+    "title": "Com3",
+    "description": "",
+    "image_url": "/uploads/1758881062050-Commercial-3.jpg",
+    "created_at": "2025-09-26 10:04:22"
+  },
+  {
+    "id": 17,
+    "category": "Commercials",
+    "title": "Com4",
+    "description": "",
+    "image_url": "/uploads/1758881112267-Commercial-4.jpg",
+    "created_at": "2025-09-26 10:05:12"
+  },
+  {
+    "id": 18,
+    "category": "Portraits",
+    "title": "Fake",
+    "description": "",
+    "image_url": "/uploads/1758884546453-Commercial-4.jpg",
+    "created_at": "2025-09-26 11:02:26"
+  }
+]
